@@ -1,0 +1,44 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "devDependencies": {
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "jest": "^22.4.2",
+    "mock-local-storage": "^1.0.5",
+    "react-scripts": "1.0.17",
+    "redux-mock-store": "^1.5.1"
+  },
+  "dependencies": {
+    "axios": "0.17.1",
+    "bootstrap": "^4.0.0",
+    "chart.js": "^2.7.2",
+    "history": "4.7.2",
+    "jest-cli": "^22.4.2",
+    "jwt-decode": "^2.2.0",
+    "lodash": "4.17.4",
+    "moment": "^2.20.1",
+    "moxios": "^0.4.0",
+    "react": "16.2.0",
+    "react-chartjs-2": "^2.7.0",
+    "react-dom": "16.2.0",
+    "react-idle-timer": "^2.0.0",
+    "react-modal": "^3.3.1",
+    "react-redux": "5.0.6",
+    "react-router": "4.2.0",
+    "react-router-dom": "4.2.2",
+    "react-router-enzyme-context": "^1.2.0",
+    "react-router-redux": "next",
+    "reactstrap": "5.0.0-beta",
+    "redux": "3.7.2",
+    "redux-thunk": "2.2.0"
+  },
+  "homepage": "./",
+  "proxy": "http://localhost:58810",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom --verbose",
+    "eject": "react-scripts eject"
+  }
+}

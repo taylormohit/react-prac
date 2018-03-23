@@ -1,0 +1,19 @@
+.gray-line{
+    border:1px solid gray;
+    margin-bottom:1.5%
+}
+
+.update-btn-margin{
+    margin-right: 2%;
+}
+
+.addEditForm{
+    padding-top: 5px !important;
+}
+
+.addEditForm h1{
+    margin-top: 15px ;
+}
+.btn-top-margin{
+    margin-top: 10px;
+}
