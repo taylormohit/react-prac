@@ -16,7 +16,7 @@
     "history": "4.7.2",
     "jest-cli": "^22.4.2",
     "jwt-decode": "^2.2.0",
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "moment": "^2.20.1",
     "moxios": "^0.4.0",
     "react": "16.2.0",
