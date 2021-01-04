@@ -10,7 +10,7 @@
     "redux-mock-store": "^1.5.1"
   },
   "dependencies": {
-    "axios": "0.17.1",
+    "axios": "0.21.1",
     "bootstrap": "^4.0.0",
     "chart.js": "^2.7.2",
     "history": "4.7.2",
