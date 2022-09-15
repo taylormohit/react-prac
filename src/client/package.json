@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "axios": "0.17.1",
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.3.1",
     "chart.js": "^2.7.2",
     "history": "4.7.2",
     "jest-cli": "^22.4.2",
